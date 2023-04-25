@@ -36,5 +36,6 @@ const styles = {
         margin: 20
     }
 }
+{/* Comment */ }
 
 export default CartItem;
